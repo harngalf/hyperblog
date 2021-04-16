@@ -1,6 +1,6 @@
 body
 {
-    color: rgb(81, 9, 122);
+    color: purple;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -43,4 +43,11 @@ body
 #post
 {
     padding: 1em;
+}
+
+#sugest
+{
+    color: red;
+    font-size: small;
+    
 }
