@@ -59,3 +59,13 @@ body
     font-size: small;
     
 }
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    padding: 1.0em;
+}
