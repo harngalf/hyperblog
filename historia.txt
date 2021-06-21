@@ -6,6 +6,8 @@ Harngalf2 es un seudo usuario para practicar que contribuye a este proyeto open 
 
 Main 1
 
+Main 2
+
 Hablaremos de su historia y vida laboral.
 
 Mañana hablaremos de su vida real
